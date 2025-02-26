@@ -1,6 +1,6 @@
 # Postman Learning - Reqres.in Automation
 
-This repository contains my Postman collection created as part of my learning process. It includes various API requests using the **Reqres.in** service for testing RESTful APIs.
+This repository contains my Postman collection created as part of my learning process. It includes various API requests using the **Reqres.in** service for testing APIs.
 
 ## Collection Overview
 The collection includes the following requests:
